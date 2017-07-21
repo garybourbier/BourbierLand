@@ -1,5 +1,3 @@
 # BourbierLand
-BourbierLand
-
-Hey ! Salut ! Bienvenue sur BourbierLand ! !
+Ceci est mon Starter de base avec include en php
 
